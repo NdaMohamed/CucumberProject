@@ -7,6 +7,7 @@ clone the project from the git url "https://github.com/NdaMohamed/CucumberProjec
 ## Roadmap
 This project contains the following sources:
 - src/main/java --> that contains 3 packages
+  
   * Factory package --> DriverFactory class contains initiation methods (initiate browser - Get driver)
     
 
@@ -52,7 +53,7 @@ Report 1)  After running tests --> open cosonel and copy the cucumber report lin
 Report 2) After running tests --> open test-output --> click on "index.html".
 
 
-## think of other useful features
+## thinking of other useful features
 - we can add search input to make seaching on specific product easily.
 - Add categorize feature that allows user to filter data by category.
 - Add many photos to single product.
