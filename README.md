@@ -7,11 +7,10 @@ clone the project from the git url "https://github.com/NdaMohamed/CucumberProjec
 ## Roadmap
 This project contains the following sources:
 - src/main/java --> that contains 3 packages
-  * Factory package --> DriverFactory class--> contains methods
-    1) initiate list of browsers with ability to select specific browser from config.properties file.
-    2) Get driver
+  * Factory package --> DriverFactory class contains initiation methods (initiate browser - Get driver)
+    
 
-  * Pages package --> 2 classes for (login and Create Order features) web page, every class contains locators and methods that handle these locators.
+  * Pages package --> there are 2 classes for (login and Create Order features), every class contains web page locators and methods that handle these locators.
    
   *   Utilities package --> contains Reader classes
       1) Configuration Reader
